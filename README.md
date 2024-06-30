@@ -1,6 +1,6 @@
 ### I'm SweptThrone  
 GitHub thinks it's a good idea to put 87 emojis on my profile.  
-Mainly do Garry's Mod stuff, ocassionaly some other things.  
+Mainly do Garry's Mod stuff, occasionally some other things.  
 
 Lua (GLua), JavaScript (Node), C#, Java, C++, HTML/CSS  
 
