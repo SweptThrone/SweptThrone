@@ -5,5 +5,3 @@ Mainly do Garry's Mod stuff, occasionally some other things.
 Lua (GLua), C#, JavaScript (Node), C++, Java, HTML/CSS  
 
 Learn more at the coolest website on the internet → [sweptthr.one](https://sweptthr.one)
-
-![No AI](https://sweptthr.one/img/NoAI.png)
